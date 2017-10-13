@@ -41,6 +41,7 @@ setup(
             'run = gwf.plugins.run:run',
             'config = gwf.plugins.config:config',
             'status = gwf.plugins.status:status',
+            'board = gwf.plugins.board:board',
             'info = gwf.plugins.info:info',
             'logs = gwf.plugins.logs:logs',
             'clean = gwf.plugins.clean:clean',
